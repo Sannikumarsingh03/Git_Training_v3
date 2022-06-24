@@ -3,3 +3,4 @@ Git revert commit 1
 
 This is the sample file 2
 This is the sample file 1 for comparision
+this is sample file 2
